@@ -1,4 +1,4 @@
-# Projet-OVSPTLT (Spring + JSP)
+# Projet OVSPTLT (Spring + JSP)
 
 Application d'organisation d'activités au sein d'une entreprise. Architecture MVC.  
 (OVSPTLT = On Va Sortir Par Tous Les Temps)  
